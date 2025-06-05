@@ -1,0 +1,20 @@
+{
+    "name": "doc/system-sync",
+    "description": "Sharif",
+    "version": "1.0.0",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Doc\\SystemSync\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Doc\\SystemSync\\SystemSyncServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
