@@ -1,1 +1,5 @@
-doc/system-sync
+# doc/system-sync
+## installation
+...
+composer require doc/system-sync
+...
