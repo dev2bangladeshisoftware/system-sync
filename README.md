@@ -1,4 +1,4 @@
-<p align="center"><a href="https://bangladeshisoftware.com/" target="_blank"><img src="https://doc.bangladeshisoftware.com/_next/image?url=https%3A%2F%2Fwww.apidoc.bangladeshisoftware.com%2Fpublic%2Fsite_settings%2F172476321466cdcc4ed0a24.webp&w=1080&q=75" width="400" alt="bs Logo"></a></p>
+<p align="center"><a href="https://bangladeshisoftware.com/" target="_blank"><img src="https://doc.bangladeshisoftware.com/_next/image?url=https%3A%2F%2Fwww.apidoc.bangladeshisoftware.com%2Fpublic%2Fsite_settings%2F172476321466cdcc4ed0a24.webp&w=1080&q=75" width="80" alt="bs Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
